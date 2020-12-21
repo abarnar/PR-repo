@@ -1,0 +1,17 @@
+{
+	"signatures": [{
+			"part": "contents",
+			"regex": "test",
+			"name": "Authorization token"
+		},
+		{
+			"part": "contents",
+			"regex": "test",
+			"name": "Bearer token"
+		},
+		{
+			"part": "contents",
+			"regex": "test",
+			"name": "Mapbox Key or JWT Key"
+		}
+		]}
